@@ -7,29 +7,31 @@ $result = mysqli_query($koneksi, $query);
 
 <div class="container">
     <br>
-    <h1 class="text-center">Data Guruku</h1>
+    <h1 class="text-center">Data Guru</h1>
     <div class="input-group input-group-sm hidden-xs" style="width: 150px;">
         <a href="tambah.php" name="tambah" type="button" class="btn btn-block btn-dark bg-primary"><b>+ Data Baru</b></a>
     </div>
     <br><br>
-    <table class="table table-borderless">
-      <tr>
-         <th>No</th>
-         <th>NIG</th>
-         <th>NIK</th>
-         <th>NUPTK</th>
-         <th>Nama Guru</th>
-         <th>Jenig Kelamin</th>
-         <th>Tempat Lahir</th>
-         <th>Tanggal Lahir</th>
-         <th>Agama</th>
-         <th>Alamat Guru</th>
-         <th>Status Guru</th>
-         <!-- <th>Vertifikasi</th> -->
-         <th>Golongan</th>
-         <th>Nomer Telepon</th>
-         <th>Aksi</th>
-     </tr>	
+    <table class="table table-striped">
+        <thead class="thead-dark">
+          <tr>
+             <th>No</th>
+             <th>NIG</th>
+             <th>NIK</th>
+             <th>NUPTK</th>
+             <th>Nama Guru</th>
+             <th>Jenis Kelamin</th>
+             <th>Tempat Lahir</th>
+             <th>Tanggal Lahir</th>
+             <th>Agama</th>
+             <th>Alamat Guru</th>
+             <th>Status Guru</th>
+             <th>Vertifikasi</th>
+             <th>Golongan</th>
+             <th>Nomer Telepon</th>
+             <th>Aksi</th>
+         </tr>
+     </thead>	
      <?php                
      $no = 1;
      while ($data = mysqli_fetch_array($result)) {  
