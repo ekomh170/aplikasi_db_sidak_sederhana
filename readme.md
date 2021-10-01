@@ -31,6 +31,56 @@ Kebutuhan aplikasi yaitu dapat yaitu :<br>
 
 <img src="assets_readme/Analisis_Sistem.jpg" alt="Analisis_Sistem">
 
+## Fitur Aplikasi
+
+- Halaman Utama<br><br>
+  A. Tampilan Data Guru<br>
+- Tambah Data (Guru)<br>
+- Ubah Data (Guru)<br>
+- Hapus Data (Guru)<br><br>
+
+  B. Tampilan Data Jabatan<br>
+
+- Tambah Data (Jabatan)<br>
+- Ubah Data (Jabatan)<br>
+- Hapus Data (Jabatan)<br><br>
+
+  C. Tampilan Data Jurusan<br>
+
+- Tambah Data (Jurusan)<br>
+- Ubah Data (Jurusan)<br>
+- Hapus Data (Jurusan)<br><br>
+
+  D. Tampilan Data Karyawan<br>
+
+- Tambah Data (Karyawan)<br>
+- Ubah Data (Karyawan)<br>
+- Hapus Data (Karyawan)<br><br>
+
+  E. Tampilan Data Kelas<br>
+
+- Tambah Data (Kelas)<br>
+- Ubah Data (Kelas)<br>
+- Hapus Data (Kelas)<br><br>
+
+  F. Tampilan Data Mapel<br>
+
+- Tambah Data (Mapel)<br>
+- Ubah Data (Mapel)<br>
+- Hapus Data (Mapel)<br><br>
+
+  G. Tampilan Data Siswa<br>
+
+- Tambah Data (Siswa)<br>
+- Ubah Data (Siswa)<br>
+- Hapus Data (Siswa)<br><br>
+
+  E. Tampilan Data Tendik<br>
+
+- Tambah Data (Tendik)<br>
+- Ubah Data (Tendik)<br>
+- Hapus Data (Tendik)<br><br>
+
 ## Alat Yang Digunakan Untuk Membuat Web :
 
 A. Hardware :
