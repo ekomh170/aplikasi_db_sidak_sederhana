@@ -30,3 +30,11 @@ Kebutuhan aplikasi yaitu dapat yaitu :<br>
 ## Analisis Sistem
 
 <img src="assets_readme/Analisis_Sistem.jpg" alt="Analisis_Sistem">
+
+## Alat Yang Digunakan :
+
+- XAMPP
+- Sublime Texxt
+- Bootstrap 4
+- PHP 7.2
+- MYSQL
