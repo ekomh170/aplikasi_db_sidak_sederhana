@@ -1,4 +1,5 @@
-<ul><b>Notes : </b>Tugas tidak diupload ke github hanya inisiatif sendiri.</ul>
+<ul><b>Notes : </b>Tugas tidak diupload ke github hanya inisiatif saya sendiri.</ul>
+
 ## Biodata Siswa
 
 <ul><b>Nama : </b>Eko Muchamad Haryono</ul>
